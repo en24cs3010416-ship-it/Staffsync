@@ -1,0 +1,6 @@
+{
+  "name": "StaffSync - Modern Human Resource Management Solution",
+  "description": "Enterprise MERN Stack Human Resource Management System featuring role-based workflows for HR, Managers, and Employees with ER Diagrams, MVC architecture, interactive demo walkthrough, and automated leave and attendance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
